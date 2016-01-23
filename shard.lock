@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  satriani:
+    github: marceloboeira/satriani
+    commit: ecabdb7d6776e613c4db321af37f70e0ed980f23
+

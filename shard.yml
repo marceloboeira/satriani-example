@@ -5,3 +5,7 @@ authors:
   - Marcelo Boeira <me@marceloboeira.com>
 
 license: MIT
+
+dependencies:
+  satriani:
+    github: marceloboeira/satriani
